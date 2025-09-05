@@ -1,0 +1,13 @@
+title: "OmniSci-Lab"
+description: "Nhóm nghiên cứu phát triển phần mềm"
+
+theme: null
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation ví dụ
+# (tạo file _data/navigation.yml để định nghĩa menu)
